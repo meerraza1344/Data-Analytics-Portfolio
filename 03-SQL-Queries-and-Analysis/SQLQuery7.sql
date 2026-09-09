@@ -1,0 +1,6 @@
+SELECT TOP (1000) [Emp_ID]
+      ,[Emp_Name]
+      ,[Emp_Dep]
+      ,[Salary]
+      ,[Age]
+  FROM [Sample].[dbo].[Employee]
