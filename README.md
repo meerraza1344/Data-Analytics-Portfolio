@@ -6,11 +6,11 @@ Welcome to my portfolio! Here you will find a curated collection of interactive 
 
 ## 📊 Projects Overview
 
-| Project | Domain / Type | Tech Stack | Link |
+| Project / Category | Domain / Focus | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Google Merchandise Store** | E-commerce / Sales Analytics | Power BI, DAX, Power Query | [View Folder](./01-Google-Merchandise-Dashboard) |
-| **Interactive Calculator** | Python Programming | Python 3.x | [View Folder](./02-Python-Calculator) |
-| **Business Analytics Queries** | Relational Database & SQL | SQL (MySQL / MS SQL Server) | [View Folder](./03-SQL-Queries-and-Analysis) |
+| **Power BI Dashboards Collection** | Multi-Domain Analytics (Includes Google Merchandise & 3 other dashboards) | Power BI, DAX, Power Query | [View Folder](./01-Google-Merchandise-Dashboard) |
+| **Business Analytics Queries** | Relational Database & SQL | SQL (MySQL / MS SQL Server) | [View Folder](./02-SQL-Queries-and-Analysis) |
+| **Interactive Calculator** | Python Programming | Python 3.x | [View Folder](./03-Python-Calculator) |
 
 ---
 
